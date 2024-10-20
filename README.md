@@ -32,6 +32,12 @@ The Recipe Finder App allows users to explore a variety of recipes fetched from 
 
 - The app currently retrieves a maximum of 50 recipes from the Spoonacular API.
 
+## Technologies
+- React Native
+- Typescript
+- Expo
+- Axios
+
 ## Installation
 
 1. Clone the repository:
